@@ -423,7 +423,7 @@ public class Formulario extends javax.swing.JFrame {
     private void jButton9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton9ActionPerformed
         valor1 = null;
         valor2 = null;
-        txtResultado.setText("");
+        txtResultado.setText(" ");
     }//GEN-LAST:event_jButton9ActionPerformed
 
     /**
